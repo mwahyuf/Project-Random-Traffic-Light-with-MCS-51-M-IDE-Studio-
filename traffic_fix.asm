@@ -1,5 +1,4 @@
 ; Muhammad Wahyu Fadli
-; 09011381823086
 ; Traffic Light
 ;	
 		org	00h
